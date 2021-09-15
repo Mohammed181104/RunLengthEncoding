@@ -19,8 +19,9 @@ public class Main {
 
             }
         }
-
-        return " has been encoded.";
+	System.out.print(previousChar);
+        System.out.print(counter);
+        return " ";
 
     }
 
